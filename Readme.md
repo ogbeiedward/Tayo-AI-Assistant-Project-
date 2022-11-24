@@ -18,10 +18,10 @@ It can recognize human speech, talk to user and execute basic commands.
 #### Assistant Features
 *   **Asynchronous command execution & speech recognition and interpretation**
 *   Supports **two different user input modes (text or speech)**, user can write or speek in the mic.
-*   Answers in **general questions** (via call Wolfram API), e.g ('Jarvis tell me the highest building') 
-*   **Change input mode on run time**, triggered by a phrase e.g 'Jarvis change settings')
+*   Answers in **general questions** (via call Wolfram API), e.g ('Tayo tell me the highest building') 
+*   **Change input mode on run time**, triggered by a phrase e.g 'Tayo change settings')
 *   Easy **voice-command customization**
-*   Configurable **assistant name** (e.g 'Jarvis', 'Sofia', 'John' etc.) (change on run time supported)
+*   Configurable **assistant name** (e.g 'Tayo', 'Segun', 'Bola' etc.) (change on run time supported)
 *   **Log preview** in console
 *   **Vocal or/and text response**
 *   **Keeps commands history and learned skills** in MongoDB.'
